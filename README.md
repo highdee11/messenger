@@ -1,7 +1,11 @@
 ## THIS APP IS A ONE MESSENGER APP
 it has just two pages , one page is for the receiver('/) and the other page is for the sender('/admin')
 it was built using
- ## 'react/redux' , ## 'socket io' and ## 'node js'
+## 'react/redux' 
+ ,
+## 'socket io'
+and
+ ## 'node js'
 
 ## TO RUN THIS APP
 You need to install few dependcies , so you can download the project and navigate to the project folder then open your console and run the following command
